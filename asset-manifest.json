@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/parkirIn/static/css/main.8b25ff23.chunk.css",
-    "main.js": "/parkirIn/static/js/main.b5829e2b.chunk.js",
-    "main.js.map": "/parkirIn/static/js/main.b5829e2b.chunk.js.map",
+    "main.js": "/parkirIn/static/js/main.9e2836f9.chunk.js",
+    "main.js.map": "/parkirIn/static/js/main.9e2836f9.chunk.js.map",
     "runtime-main.js": "/parkirIn/static/js/runtime-main.7341b5b0.js",
     "runtime-main.js.map": "/parkirIn/static/js/runtime-main.7341b5b0.js.map",
     "static/js/2.ed436c27.chunk.js": "/parkirIn/static/js/2.ed436c27.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.7341b5b0.js",
     "static/js/2.ed436c27.chunk.js",
     "static/css/main.8b25ff23.chunk.css",
-    "static/js/main.b5829e2b.chunk.js"
+    "static/js/main.9e2836f9.chunk.js"
   ]
 }
